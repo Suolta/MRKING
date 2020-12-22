@@ -20,11 +20,11 @@ echo -e $green "-                                                     -"
 sleep 0.3
 echo -e $green "-                                                     -"
 sleep 0.3
-echo -e $green "-                 $red INSTALL MRKING    $green                 -"
+echo -e $green "-                 $red INSTALL Virus    $green                 -"
 sleep 0.3
 echo -e $green "-                                                     -"
 sleep 0.3
-echo -e $green "-                  $blue KiNg-HaCkInG  $green                    -"
+echo -e $green "-                  $blue Sultan-hack  $green                    -"
 sleep 0.3
 echo -e $green "-                                                     -"
 sleep 0.3
@@ -45,7 +45,7 @@ apt update && apt upgrade
 pkg install figlet -y
 pkg install git -y
 pkg install wget -y
-chmod +x MRKING.sh
+chmod +x Virus.sh
 pkg install toilet -y
 pkg install lolcat -y
 pkg install ruby -y
@@ -62,7 +62,7 @@ apt-get install figlet -y
 apt-get install git -y
 apt-get install wget -y
 apt-get install toilet -y
-chmod +x MRKING.sh
+chmod +x Virus.sh
 apt-get install toilet -y
 apt-get install lolcat -y
 apt-get install ruby
